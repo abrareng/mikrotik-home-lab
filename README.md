@@ -16,3 +16,6 @@ Install MikroTik CHR on VMware
 ### Status
 
 ✅ Successful
+
+<img width="1023" height="702" alt="image" src="https://github.com/user-attachments/assets/7a43328a-47ca-49e5-9ec0-c3eab63c48d5" />
+
